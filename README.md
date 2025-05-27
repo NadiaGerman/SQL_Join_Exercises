@@ -26,7 +26,10 @@ Open join_queries.sql in your SQL editor and run queries as needed.
 
 Folder Structure
 
-<pre>``` SQL_Join_Exercises/ ├── join_queries.sql ├── functions_mySql.sql └── README.md ```</pre>
+<pre>``` SQL_Join_Exercises/ 
+├── join_queries.sql 
+├── functions_mySql.sql 
+└── README.md ```</pre>
 
 Author
 
